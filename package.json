@@ -1,0 +1,24 @@
+{
+  "name": "anisettyanudeep",
+  "version": "1.0.0",
+  "description": "npm card for anisetty anudeep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypoalien/anudeep.git"
+  },
+  "author": "Anisetty Anudeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypoalien/anudeep/issues"
+  },
+  "homepage": "https://github.com/hypoalien/anudeep#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1"
+  }
+}
